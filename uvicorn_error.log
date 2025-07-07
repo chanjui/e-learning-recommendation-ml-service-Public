@@ -1,0 +1,4 @@
+[32mINFO[0m:     2025-04-26 07:21:13 - Will watch for changes in these directories: ['C:\\Users\\gjcks\\OneDrive\\바탕 화면\\3차프로젝트\\e-learning\\ml-service']
+[32mINFO[0m:     2025-04-26 07:21:13 - Uvicorn running on [1mhttp://127.0.0.1:3000[0m (Press CTRL+C to quit)
+[32mINFO[0m:     2025-04-26 07:21:13 - Started reloader process [[36m[1m25260[0m] using [36m[1mStatReload[0m
+[32mINFO[0m:     2025-04-26 07:21:18 - Stopping reloader process [[36m[1m25260[0m]
